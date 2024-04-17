@@ -1,0 +1,35 @@
+p {
+    color: red;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+
+body { 
+    background-color: lightblue;
+}
+h1 {
+    text-decoration: underline;
+}
+.header {
+    border: 1px solid black;
+    margin: 10px;
+    padding: 10px;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+div {
+    border: 1px solid black;
+    margin: 10px;
+    padding: 10px;
+
+}
+.back-to-top {
+      bottom: 50px;
+      right: 100px;
+      background-color: #333;
+      color: #fff;
+      padding: 10px 15px;
+      border-radius: 5px;
+      cursor: pointer;
+    }
